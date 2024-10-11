@@ -1,0 +1,3 @@
+current_language=Russian
+current_bind=None
+current_layout=english_to_russian
